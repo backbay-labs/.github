@@ -1,5 +1,3 @@
-# Backbay Industries
-
 Backbay Industries builds infrastructure for autonomous systems.
 
 We are interested in agent swarms, decentralized software, runtime control, security, and trust.
